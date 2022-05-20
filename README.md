@@ -24,12 +24,12 @@ realizamos un endpoint para editar unicamente la descripcion del Usurio, es Deci
 realizamos un endpoint para leer los datos del usuario con el objetivo de enviarlos con el metodo POST la api rest
 
 
-##PRUEBAS
-#POSTMAN
+## PRUEBAS
+# POSTMAN
  -GET localhost://api/v1/user  -LEER
  -PUT localhost://api/v1/update-user -EDITAR
  -POST localhost://api/v1/create-user  -CREAR
 
-###DIFICULTADES
+### DIFICULTADES
 Mi sincera Dificultad fue que anteriormente no habia trabajado con DynamoDB y me costo un poco aprender como funcioona pero no tanto porque 
 ya habia trabajado con bases de datos no SQL, Mas que todo eso fue para mi un reto ya que el resto si se me facilito bastante.
