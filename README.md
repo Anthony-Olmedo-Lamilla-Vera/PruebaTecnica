@@ -27,8 +27,8 @@ realizamos un endpoint para leer los datos del usuario con el objetivo de enviar
 ## PRUEBAS
 # POSTMAN
 # -GET localhost://api/v1/user  -LEER
- #-PUT localhost://api/v1/update-user -EDITAR
- #-POST localhost://api/v1/create-user  -CREAR
+# -PUT localhost://api/v1/update-user -EDITAR
+# -POST localhost://api/v1/create-user  -CREAR
 
 ### DIFICULTADES
 Mi sincera Dificultad fue que anteriormente no habia trabajado con DynamoDB y me costo un poco aprender como funcioona pero no tanto porque 
