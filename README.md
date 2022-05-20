@@ -1,7 +1,7 @@
 # PruebaTecnica
 Prueba Tecnica Desarollo Node
 #fecha 19/5/2022
-##Herramientas
+## Herramientas
 ## TIEMPO 3HORAS
 #### Para la elaboracion de la prueba tecnica de node JS, pues estuve utilizando como framework principal NodeJS
 ## NodeJS
@@ -9,7 +9,7 @@ Prueba Tecnica Desarollo Node
 ## DYNAMO DB - PARTIQL
 ## EXPRESS
 ## dynamodb-marshaler##
-### NODEMON para los tests de la API
+### POSTMAN para los tests de la API
 # API 
 ## La API cuenta con 3 puntos de accesos 
 
